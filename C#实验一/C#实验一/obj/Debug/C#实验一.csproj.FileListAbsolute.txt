@@ -1,0 +1,7 @@
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\bin\Debug\C#实验一.exe.config
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\bin\Debug\C#实验一.exe
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\bin\Debug\C#实验一.pdb
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\obj\Debug\C#实验一.csproj.AssemblyReference.cache
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\obj\Debug\C#实验一.csproj.CoreCompileInputs.cache
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\obj\Debug\C#实验一.exe
+C:\Practical_Code\C#程序设计\C#实验一\C#实验一\obj\Debug\C#实验一.pdb
